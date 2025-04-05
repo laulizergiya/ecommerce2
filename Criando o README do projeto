@@ -1,0 +1,31 @@
+READ.me
+# Projeto Ecommerce Refinado 🛒
+
+Este repositório contém o modelo refinado de banco de dados para um sistema de e-commerce.
+
+## 📌 Melhorias aplicadas
+- Cliente pode ser PJ ou PF (mas nunca os dois)
+- Pagamento com múltiplos cartões por cliente
+- Informações de entrega com status e código de rastreio
+
+## 📂 Estrutura
+- MySQL Workbench `.mwb`
+- PDF com diagrama inicial
+- SQL para importação do modelo
+
+## 🚀 Feito por
+[Laura]
+
+# Projeto Oficina Mecânica
+
+Modelo de banco de dados para controle de ordens de serviço em uma oficina.
+
+## Arquivos
+
+- `oficina.mwb`: Modelo EER criado no MySQL Workbench
+- `oficina.sql`: Script de criação do banco de dados
+
+
+
+
+
